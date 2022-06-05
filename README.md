@@ -1,5 +1,9 @@
 # vidyabhavan
 
+
+
+***Please Refer Screenshots section to see the project screenshots***
+
 Vidyabhavan is a blend of two Ideas. The first
 idea was " Start-up and mentorship in one platform " and the
 second idea was " College exchange items for needy students "
@@ -13,4 +17,4 @@ Our website will include these features :
 ● Startup and mentorship program
 
 
-***Projects implementation in screesshots folder
+***Projects implementation in screesshots folder***
